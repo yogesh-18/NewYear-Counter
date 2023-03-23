@@ -55,6 +55,10 @@ p{
 
 }
 
+footer{
+    font-size: 13px;
+}
+
 @media (min-width:576px){
     p{
         margin-bottom: 15px;
@@ -73,6 +77,9 @@ p{
     }
     .newyear{
         font-size: 60px;
+    }
+    footer{
+        font-size: 12px;
     }
 }
 
@@ -94,6 +101,9 @@ p{
     }
     .newyear{
         font-size: 75px;
+    }
+    footer{
+        font-size: 18px;
     }
 
 }
